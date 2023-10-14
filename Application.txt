@@ -1,0 +1,3 @@
+DateApplied,StartDate,EndDate,TpNum,RoomNo,Pax,Month,MonthlyPrice,Total(RM),Process
+30/05/2023,30/06/2023,29/07/2023,TP068453,102,2,1,500,500.0,Accepted
+03/06/2023,30/06/2023,30/08/2023,TP068029,102,2,2,500,1000.0,Accepted

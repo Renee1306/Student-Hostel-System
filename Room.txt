@@ -1,0 +1,12 @@
+RoomNo,Pax,Price(Month),Status,StudentApplied
+101,4,600,Available,2
+102,2,500,Unavailable,2
+103,2,500,Available,0
+104,4,750,Available,0
+105,2,400,Available,0
+106,2,500,Available,0
+107,2,500,Available,0
+108,4,750,Available,0
+109,2,500,Available,0
+110,2,500,Available,0
+111,2,250,Available,1
